@@ -1,0 +1,62 @@
+*{
+ 
+}
+.navigation{
+    background-color: aliceblue;
+    border: 2x solid black;
+}
+.banner
+
+{
+ background-color: blanchedalmond;
+ height: 400px;
+}
+.image{
+    margin-top: 36px;
+    margin-left: -136px;
+}
+.about
+{
+ 
+    margin-top: 100px;
+    margin-left: 20px;
+}
+button{
+   width: 130px ;
+}
+.bg{
+    background-color: rgb(211, 226, 226);
+    height: 300px;
+}
+.lip{
+    
+   width: 271px;
+   float: right;
+   margin-left: 20px;
+}
+.in{
+      margin-top: 70px;
+      margin-left: 30px;
+}
+.out
+{
+
+
+    margin-left: 20px;
+}
+.back{
+
+height: 300px;
+}
+.lip2{
+    margin-left: 220px;
+}
+.im{
+
+    height: 209px;
+    background-color:  rgb(211, 226, 226);
+
+}
+.card{
+    margin-top: 10px;
+}
